@@ -16,11 +16,10 @@ description: "Profile"
 
 ## 略歴
 * 2012/4 〜 2016/3  
-組込み業界に勤務しており、主に開発支援に従事していました。  
-Excel VBAやAccessを使用した内製ツールの開発を担当しました。
-* 2017/1 ~ 2019/7
-WEB系業界に転身。  
-業務システムのソフトウェア開発に従事しました。  
+組込み業界にて、主に開発支援に従事しました。  
+Excel VBAやAccessを用いて内製ツールの開発を担当していました。
+* 2017/1 ~ 2019/7  
+Web系業界にて、業務システムのソフトウェア開発に従事しました。  
 詳細設計からテストまでを担当しており、フロントサイド、サーバサイドの開発経験があります。  
 主な開発環境は、Spring Boot、AngularJS、TypeScriptです。
 * 現在  
@@ -36,7 +35,8 @@ WEB系業界に転身。
 Spring Boot / Thymeleaf / Java8 / JUnit /  
 AngularJS / TypeScript / jQuery / HTML / Sass /  
 PostgreSQL / A5:SQL /   
-Source Tree / Backlog / Mattermost
+Source Tree / Backlog / Mattermost /  
+VBA
 
 業務経験なし  
 Android(Java/Kotlin) / GitHub
@@ -45,5 +45,5 @@ Android(Java/Kotlin) / GitHub
 * [Medium](https://medium.com/@kawanojieee)  
 主にAndroid開発について記載しています。
 
-## 問合せ
-* [E-mail](mailto:ksk.kawajiri@gmail.com)
+<!-- ## 問合せ
+* [E-mail](mailto:ksk.kawajiri@gmail.com) -->
