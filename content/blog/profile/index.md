@@ -1,12 +1,9 @@
 ---
-path: "/Profile"
+path: "/profile"
 title: "Profile"
 date: "2020-02-02T22:12:03.284Z"
 description: "Profile"
 ---
-
-# Profile
-
 ## 基本情報
 
 |||
