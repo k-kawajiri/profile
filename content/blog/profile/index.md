@@ -38,9 +38,5 @@ VBA
 業務経験なし  
 Android(Java/Kotlin) / GitHub
 
-## ブログ
-* [Medium](https://medium.com/@kawanojieee)  
-主にAndroid開発について記載しています。
-
 <!-- ## 問合せ
 * [E-mail](mailto:ksk.kawajiri@gmail.com) -->
