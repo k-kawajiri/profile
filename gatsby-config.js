@@ -1,4 +1,6 @@
+const pathPrefix = "/profile"
 module.exports = {
+  pathPrefix: pathPrefix,
   siteMetadata: {
     title: `Index`,
     author: `k-kawajiri`,
@@ -55,7 +57,7 @@ module.exports = {
       options: {
         name: ``,
         short_name: ``,
-        start_url: `/`,
+        start_url: pathPrefix,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
