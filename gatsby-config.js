@@ -4,6 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Index`,
     author: `k-kawajiri`,
+    siteUrl: `https://k-kawajiri.github.io/profile/`,
     description: ``,
   },
   plugins: [
